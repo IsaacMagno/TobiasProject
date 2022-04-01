@@ -6,9 +6,9 @@
 #### 🚧  Principais Tecnologias utlizadas no desenvolvimento
 - React
 - NodeJS
-- Axios
+- Mysql
 - Bootstrap
-- ESlint
+
 
 
 
