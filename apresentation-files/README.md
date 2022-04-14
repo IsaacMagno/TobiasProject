@@ -1,30 +1,30 @@
 #### Home:
-![](apresentation-files/apresentacao-home.png)
+![](apresentacao-home.png)
 
 #### Campeões:
-![](apresentation-files/apresentacao-champions.png)
+![](apresentacao-champions.png)
 
 #### Stats:
-![](apresentation-files/apresentacao-stats.png)
+![](apresentacao-stats.png)
 <br/>
 <br/>
-![](apresentation-files/apresentacao-stats-2.png)
+![](apresentacao-stats-2.png)
 <br/>
 <br/>
-![](apresentation-files/apresentacao-stats-3.png)
+![](apresentacao-stats-3.png)
 <br/>
 <br/>
-![](apresentation-files/apresentacao-stats-4.png)
+![](apresentacao-stats-4.png)
 
 #### Calendario:
-![](apresentation-files/apresentacao-calendario.png)
+![](apresentacao-calendario.png)
 <br />
 <br />
-![](apresentation-files/apresentacao-calendario-2.png)
+![](apresentacao-calendario-2.png)
 <br />
 <br />
-![](apresentation-files/apresentacao-calendario-3.png)
+![](apresentacao-calendario-3.png)
 <br />
 <br />
-![](apresentation-files/apresentacao-calendario-4.png)
+![](apresentacao-calendario-4.png)
 
