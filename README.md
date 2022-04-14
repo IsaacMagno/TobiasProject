@@ -7,7 +7,7 @@
 - React
 - Redux
 - NodeJS
-- Mysql
+- MySQL
 - Bootstrap
 
 
@@ -19,7 +19,7 @@
 - [x] Implementar Campeões
 - [x] Implementar Stats
 - [x] Implementar Total das atividades
-- [ ] Implementar Calendario
+- [x] Implementar Calendario
 - [ ] Implementar Sistema de conquistas
 - [ ] Implementar Tarefas
 - [x] Implementar Login
@@ -27,4 +27,8 @@
 ##### 📑 Você pode acompanhar o desenvolvimento do projeto nos seguintes repositorios
 - <a href="https://github.com/IsaacMagno/tobias_project_frontend">TobiasProject FrontEnd</a>
 - <a href="https://github.com/IsaacMagno/tobias_project_backend">TobiasProject BackEnd</a>
+
+###### 🕸️ O projeto já está online:
 - <a href="https://tobiasproject.herokuapp.com/">Tobias Project Online</a>
+
+#### ‼️ Algumas partes do site ficam ocultas quando o usuario não está logado, confira elas <a href="https://github.com/IsaacMagno/TobiasProject/tree/main/apresentation-files">aqui.</a>
