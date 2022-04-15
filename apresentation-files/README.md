@@ -1,10 +1,10 @@
-#### Home:
+#### 🏡 Home:
 ![](apresentacao-home.png)
 
-#### Campeões:
+#### 🤺 Campeões:
 ![](apresentacao-champions.png)
 
-#### Stats:
+#### 🦬 Stats:
 ![](apresentacao-stats.png)
 <br/>
 <br/>
@@ -16,7 +16,7 @@
 <br/>
 ![](apresentacao-stats-4.png)
 
-#### Calendario:
+#### 📆 Calendario:
 ![](apresentacao-calendario.png)
 <br />
 <br />
