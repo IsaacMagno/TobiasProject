@@ -1,7 +1,7 @@
 # TobiasProject
 ## 🛠️ Projeto pessoal em desenvolvimento
 
-#### 🖖 O projeto Tobias é um App criado por mim para ter dados e métricas sobre Autodesenvolvimento.
+#### 🖖 O projeto Tobias é um App criado por mim para ter dados e métricas sobre Autodesenvolvimento, em um estilo "rpg".
 
 #### 🚧  Principais Tecnologias utlizadas no desenvolvimento
 - React
