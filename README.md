@@ -20,9 +20,9 @@
 - [x] Implementar Stats
 - [x] Implementar Total das atividades
 - [x] Implementar Calendario
+- [x] Implementar Login
 - [ ] Implementar Sistema de conquistas
 - [ ] Implementar Tarefas
-- [x] Implementar Login
 
 ##### 📑 Você pode acompanhar o desenvolvimento do projeto nos seguintes repositorios
 - <a href="https://github.com/IsaacMagno/tobias_project_frontend">TobiasProject FrontEnd</a>
