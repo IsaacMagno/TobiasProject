@@ -31,4 +31,8 @@
 ##### 🕸️ O projeto já está online:
 - <a href="https://tobiasproject.herokuapp.com/">Tobias Project Online</a>
 
-#### ‼️ Algumas partes do site ficam ocultas quando o usuario não está logado, confira elas <a href="https://github.com/IsaacMagno/TobiasProject/tree/main/apresentation-files">aqui.</a>
+#### ‼️ Algumas partes do site ficam ocultas quando o usuario não está logado, confira elas aqui:
+
+- <a href="https://github.com/IsaacMagno/TobiasProject/tree/main/apresentation-files">Tobias Project 1.0 </a>
+- <a href="https://github.com/IsaacMagno/TobiasProject/tree/main/tobias-update">Tobias Project 2.0 </a>
+
