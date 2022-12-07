@@ -29,7 +29,7 @@
 - <a href="https://github.com/IsaacMagno/tobias_project_backend">TobiasProject BackEnd</a>
 
 ##### 🕸️ O projeto já está online:
-- <a href="https://tobiasproject.herokuapp.com/">Tobias Project Online</a>
+- <a href="https://tobiasproject.onrender.com/">Tobias Project Online</a>
 
 #### ‼️ Algumas partes do site ficam ocultas quando o usuario não está logado, confira elas aqui:
 
