@@ -25,11 +25,11 @@
 - [ ] Implementar Tarefas
 
 ##### 📑 Você pode acompanhar o desenvolvimento do projeto nos seguintes repositorios
-- <a href="https://github.com/IsaacMagno/tobias_project_frontend">TobiasProject FrontEnd</a>
-- <a href="https://github.com/IsaacMagno/tobias_project_backend">TobiasProject BackEnd</a>
+- <a href="https://github.com/IsaacMagno/tobias_hub">TobiasProject Front-end</a>
+- <a href="https://github.com/IsaacMagno/tobias-api">TobiasProject Back-end</a>
 
 ##### 🕸️ O projeto já está online:
-- <a href="https://tobiasproject.onrender.com/">Tobias Project Online</a>
+- <a href="https://tobiashub.vercel.app">Tobias Project Online</a>
 
 #### ‼️ Algumas partes do site ficam ocultas quando o usuario não está logado, confira elas aqui:
 
