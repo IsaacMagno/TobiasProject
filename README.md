@@ -4,11 +4,11 @@
 #### 🖖 O projeto Tobias é um App criado por mim para ter dados e métricas sobre Autodesenvolvimento, em um estilo "RPG".
 
 #### 🚧  Principais Tecnologias utlizadas no desenvolvimento
-- React
+- NextJS
 - Redux
 - NodeJS
 - MySQL
-- Bootstrap
+- TailwindCSS
 
 
 
